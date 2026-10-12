@@ -1,0 +1,19 @@
+ReadLayer — A Lightweight Windows Teleprompter
+
+ReadLayer is a desktop reading companion designed to keep your notes visible while you work, present, or record. Instead of repeatedly switching between a document and the application you are using, you can keep a script in a dedicated on-screen reading window.
+
+The idea is simple: your content stays in view, and the text scrolls at a pace that fits the way you speak. A reading window can help you follow a sequence of points without constantly searching for the next sentence.
+
+Getting started begins with a plain-text file. Prepare your notes in TXT format, organize them into short paragraphs, and open the file in ReadLayer. You can use a complete script when precise wording matters, or just a series of talking points when you want to speak more freely.
+
+During a reading session, scrolling helps move the next section of text into view. Adjusting the pace lets you spend more time on an important explanation and move more quickly through familiar material. Pausing gives you time to answer a question, refer to a diagram, or collect your thoughts before continuing.
+
+ReadLayer is useful in online meetings where speakers need to remember an agenda, a project update, or technical terminology. Notes can be placed near the main work area so that the presenter can refer to them without repeatedly navigating away from the meeting.
+
+For recording tutorials or narrated demonstrations, the same approach makes it easier to follow a prepared outline. A script can help keep the explanation consistent across multiple takes, particularly when the recording includes a series of steps or detailed instructions.
+
+Presentation rehearsal is another natural use. You can practice how long each section takes, identify sentences that are difficult to say aloud, and refine the transition between topics before the actual talk. The purpose is not to replace natural speaking, but to make preparation and delivery more comfortable.
+
+The software is intentionally focused on a small task: providing a clear, accessible reading surface alongside other desktop activities. Whether you are explaining a scientific figure, discussing a proposal, conducting a remote session, or recording a short guide, ReadLayer helps keep your next point within reach.
+
+ReadLayer — keep the words in view and the focus on your message.
